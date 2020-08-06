@@ -1,0 +1,15 @@
+<template>
+    <nav class="the-navigation">
+        <h1>SSR Blog</h1>
+    </nav>
+</template>
+
+<style lang="scss" scoped>
+.the-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    border-bottom: 1px solid #e6e6e6;
+}
+</style>
